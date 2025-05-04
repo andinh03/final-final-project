@@ -1,0 +1,17 @@
+running egg_info
+writing ../build/bwi_nav_test/bwi_nav_test.egg-info/PKG-INFO
+writing dependency_links to ../build/bwi_nav_test/bwi_nav_test.egg-info/dependency_links.txt
+writing entry points to ../build/bwi_nav_test/bwi_nav_test.egg-info/entry_points.txt
+writing requirements to ../build/bwi_nav_test/bwi_nav_test.egg-info/requires.txt
+writing top-level names to ../build/bwi_nav_test/bwi_nav_test.egg-info/top_level.txt
+reading manifest file '../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+writing manifest file '../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+running build
+running build_py
+copying bwi_nav_test/__init__.py -> /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test
+running install
+running install_lib
+copying /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test/__init__.py -> /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test
+byte-compiling /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test/__init__.py to __init__.cpython-310.pyc
+running install_data
+error: can't copy 'resource/bwi_nav_test': doesn't exist or not a regular file

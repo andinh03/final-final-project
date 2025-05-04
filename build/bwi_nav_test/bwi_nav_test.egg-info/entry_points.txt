@@ -1,0 +1,3 @@
+[console_scripts]
+trash_navigator = bwi_nav_test.trash_navigator:main
+

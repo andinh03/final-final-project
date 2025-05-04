@@ -1,0 +1,12 @@
+package.xml
+setup.py
+../build/bwi_nav_test/bwi_nav_test.egg-info/PKG-INFO
+../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt
+../build/bwi_nav_test/bwi_nav_test.egg-info/dependency_links.txt
+../build/bwi_nav_test/bwi_nav_test.egg-info/entry_points.txt
+../build/bwi_nav_test/bwi_nav_test.egg-info/requires.txt
+../build/bwi_nav_test/bwi_nav_test.egg-info/top_level.txt
+../build/bwi_nav_test/bwi_nav_test.egg-info/zip-safe
+bwi_nav_test/__init__.py
+bwi_nav_test/setup.py
+bwi_nav_test/launch/simple_nav.launch.py
