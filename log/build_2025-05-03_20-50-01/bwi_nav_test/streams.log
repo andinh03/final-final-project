@@ -1,0 +1,30 @@
+[0.534s] Invoking command in '/home/2_fri/final_ros2_ws/src': PYTHONPATH=/home/2_fri/final_ros2_ws/build/bwi_nav_test/prefix_override:/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/bwi_nav_test build --build-base /home/2_fri/final_ros2_ws/build/bwi_nav_test/build install --record /home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log --single-version-externally-managed install_data
+[0.749s] running egg_info
+[0.749s] creating ../build/bwi_nav_test/bwi_nav_test.egg-info
+[0.750s] writing ../build/bwi_nav_test/bwi_nav_test.egg-info/PKG-INFO
+[0.750s] writing dependency_links to ../build/bwi_nav_test/bwi_nav_test.egg-info/dependency_links.txt
+[0.750s] writing entry points to ../build/bwi_nav_test/bwi_nav_test.egg-info/entry_points.txt
+[0.750s] writing requirements to ../build/bwi_nav_test/bwi_nav_test.egg-info/requires.txt
+[0.750s] writing top-level names to ../build/bwi_nav_test/bwi_nav_test.egg-info/top_level.txt
+[0.751s] writing manifest file '../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+[0.752s] package init file 'bwi_nav_test/__init__.py' not found (or not a regular file)
+[0.752s] reading manifest file '../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+[0.753s] writing manifest file '../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+[0.753s] running build
+[0.753s] running build_py
+[0.753s] creating /home/2_fri/final_ros2_ws/build/bwi_nav_test/build
+[0.753s] creating /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib
+[0.753s] creating /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test
+[0.753s] copying bwi_nav_test/setup.py -> /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test
+[0.753s] running install
+[0.753s] running install_lib
+[0.754s] creating /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test
+[0.754s] copying /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test/setup.py -> /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test
+[0.754s] byte-compiling /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test/setup.py to setup.cpython-310.pyc
+[0.754s] running install_data
+[0.755s] creating /home/2_fri/final_ros2_ws/install/bwi_nav_test/share
+[0.755s] creating /home/2_fri/final_ros2_ws/install/bwi_nav_test/share/ament_index
+[0.755s] creating /home/2_fri/final_ros2_ws/install/bwi_nav_test/share/ament_index/resource_index
+[0.755s] creating /home/2_fri/final_ros2_ws/install/bwi_nav_test/share/ament_index/resource_index/packages
+[0.755s] error: can't copy 'resource/bwi_nav_test': doesn't exist or not a regular file
+[0.769s] Invoked command in '/home/2_fri/final_ros2_ws/src' returned '1': PYTHONPATH=/home/2_fri/final_ros2_ws/build/bwi_nav_test/prefix_override:/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/bwi_nav_test build --build-base /home/2_fri/final_ros2_ws/build/bwi_nav_test/build install --record /home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log --single-version-externally-managed install_data
