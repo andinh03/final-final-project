@@ -26,9 +26,10 @@ class TrashNavigationNode(Node):
         
         # Store positions of trash cans (to be updated with actual positions or detection)
         self.trash_can_positions = {
-            'empty_trash': {'x': 1.0, 'y': 0.0},
-            'full_trash': {'x': 3.0, 'y': 0.0}
+            'empty_trash': {'x': 0.2, 'y': 0.0},
+            'full_trash': {'x': 0.3, 'y': 0.2}
         }
+
         
         self.get_logger().info('Trash Navigation Node initialized!')
         

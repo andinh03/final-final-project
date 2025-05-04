@@ -1,0 +1,30 @@
+[0.546s] Invoking command in '/home/2_fri/final_ros2_ws/src/bwi_nav_test': PYTHONPATH=/home/2_fri/final_ros2_ws/build/bwi_nav_test/prefix_override:/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bwi_nav_test build --build-base /home/2_fri/final_ros2_ws/build/bwi_nav_test/build install --record /home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log --single-version-externally-managed install_data
+[0.771s] running egg_info
+[0.772s] writing ../../build/bwi_nav_test/bwi_nav_test.egg-info/PKG-INFO
+[0.772s] writing dependency_links to ../../build/bwi_nav_test/bwi_nav_test.egg-info/dependency_links.txt
+[0.773s] writing entry points to ../../build/bwi_nav_test/bwi_nav_test.egg-info/entry_points.txt
+[0.773s] writing requirements to ../../build/bwi_nav_test/bwi_nav_test.egg-info/requires.txt
+[0.773s] writing top-level names to ../../build/bwi_nav_test/bwi_nav_test.egg-info/top_level.txt
+[0.774s] reading manifest file '../../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+[0.775s] writing manifest file '../../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+[0.775s] running build
+[0.775s] running build_py
+[0.775s] copying bwi_nav_test/simple_nav.py -> /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test
+[0.775s] copying bwi_nav_test/trash_navigator.py -> /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test
+[0.775s] running install
+[0.776s] running install_lib
+[0.776s] copying /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test/simple_nav.py -> /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test
+[0.776s] copying /home/2_fri/final_ros2_ws/build/bwi_nav_test/build/lib/bwi_nav_test/trash_navigator.py -> /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test
+[0.777s] byte-compiling /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test/simple_nav.py to simple_nav.cpython-310.pyc
+[0.777s] Sorry: IndentationError: expected an indented block after function definition on line 61 (simple_nav.py, line 62)
+[0.777s] byte-compiling /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test/trash_navigator.py to trash_navigator.cpython-310.pyc
+[0.778s] running install_data
+[0.778s] copying launch/simple_nav.launch.py -> /home/2_fri/final_ros2_ws/install/bwi_nav_test/share/bwi_nav_test/launch
+[0.778s] running install_egg_info
+[0.779s] removing '/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test-0.0.0-py3.10.egg-info' (and everything under it)
+[0.780s] Copying ../../build/bwi_nav_test/bwi_nav_test.egg-info to /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test-0.0.0-py3.10.egg-info
+[0.780s] running install_scripts
+[0.796s] Installing simple_nav script to /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/bwi_nav_test
+[0.796s] Installing trash_navigator script to /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/bwi_nav_test
+[0.797s] writing list of installed files to '/home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log'
+[0.816s] Invoked command in '/home/2_fri/final_ros2_ws/src/bwi_nav_test' returned '0': PYTHONPATH=/home/2_fri/final_ros2_ws/build/bwi_nav_test/prefix_override:/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bwi_nav_test build --build-base /home/2_fri/final_ros2_ws/build/bwi_nav_test/build install --record /home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log --single-version-externally-managed install_data

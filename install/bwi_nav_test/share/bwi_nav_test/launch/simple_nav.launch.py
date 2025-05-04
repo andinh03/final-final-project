@@ -25,17 +25,17 @@ def generate_launch_description():
         # Launch the simple navigation node
         Node(
             package='bwi_nav_test',
-            executable='simple_nav',
-            name='simple_nav_node',
+            executable='trash_navigator',
+            name='trash_navigator',
             output='screen',
             emulate_tty=True
         ),
         
         # Launch RViz with default configuration
-        Node(
-            package='rviz2',
-            executable='rviz2',
-            name='rviz2',
-            output='screen'
-        )
+        # Node(
+        #     package='rviz2',
+        #     executable='rviz2',
+        #     name='rviz2',
+        #     output='screen'
+        # )
     ])

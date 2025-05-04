@@ -59,13 +59,15 @@ class SimpleNavNode(Node):
         self._get_result_future.add_done_callback(self.get_result_callback)
     
     def get_result_callback(self, future):
-        """Handle the result of navigation."""
-        result = future.result().result
-        status = future.result().status
-        if status == 4:  # StatusEnum.SUCCEEDED
-            self.get_logger().info('Goal succeeded!')
-        else:
-            self.get_logger().error(f'Goal failed with status: {status}')
+    result = future.result().result
+    status = future.result().status
+
+    if status == 4:  # SUCCEEDED
+        self.get_logger().info('Goal succeeded!')
+    elif status == 6:  # ABORTED
+        self.get_logger().error('Goal aborted — likely unreachable or invalid.')
+    else:
+        self.get_logger().error(f'Goal failed with status: {status}')
     
     def feedback_callback(self, feedback_msg):
         """Handle the feedback from Nav2."""

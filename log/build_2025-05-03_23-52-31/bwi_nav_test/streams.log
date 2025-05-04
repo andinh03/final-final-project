@@ -1,0 +1,24 @@
+[0.609s] Invoking command in '/home/2_fri/final_ros2_ws/src/bwi_nav_test': PYTHONPATH=/home/2_fri/final_ros2_ws/build/bwi_nav_test/prefix_override:/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bwi_nav_test build --build-base /home/2_fri/final_ros2_ws/build/bwi_nav_test/build install --record /home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log --single-version-externally-managed install_data
+[0.838s] running egg_info
+[0.839s] writing ../../build/bwi_nav_test/bwi_nav_test.egg-info/PKG-INFO
+[0.839s] writing dependency_links to ../../build/bwi_nav_test/bwi_nav_test.egg-info/dependency_links.txt
+[0.839s] writing entry points to ../../build/bwi_nav_test/bwi_nav_test.egg-info/entry_points.txt
+[0.839s] writing requirements to ../../build/bwi_nav_test/bwi_nav_test.egg-info/requires.txt
+[0.839s] writing top-level names to ../../build/bwi_nav_test/bwi_nav_test.egg-info/top_level.txt
+[0.841s] reading manifest file '../../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+[0.842s] writing manifest file '../../build/bwi_nav_test/bwi_nav_test.egg-info/SOURCES.txt'
+[0.842s] running build
+[0.842s] running build_py
+[0.842s] running install
+[0.842s] running install_lib
+[0.843s] byte-compiling /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test/simple_nav.py to simple_nav.cpython-310.pyc
+[0.844s] Sorry: IndentationError: expected an indented block after function definition on line 61 (simple_nav.py, line 62)
+[0.844s] running install_data
+[0.844s] running install_egg_info
+[0.846s] removing '/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test-0.0.0-py3.10.egg-info' (and everything under it)
+[0.846s] Copying ../../build/bwi_nav_test/bwi_nav_test.egg-info to /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages/bwi_nav_test-0.0.0-py3.10.egg-info
+[0.847s] running install_scripts
+[0.863s] Installing simple_nav script to /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/bwi_nav_test
+[0.863s] Installing trash_navigator script to /home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/bwi_nav_test
+[0.863s] writing list of installed files to '/home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log'
+[0.884s] Invoked command in '/home/2_fri/final_ros2_ws/src/bwi_nav_test' returned '0': PYTHONPATH=/home/2_fri/final_ros2_ws/build/bwi_nav_test/prefix_override:/home/2_fri/final_ros2_ws/install/bwi_nav_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bwi_nav_test build --build-base /home/2_fri/final_ros2_ws/build/bwi_nav_test/build install --record /home/2_fri/final_ros2_ws/build/bwi_nav_test/install.log --single-version-externally-managed install_data
